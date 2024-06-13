@@ -14,19 +14,17 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ## Tecnologias 
 
 * [Dart - Flutter]
-* [React]
 
 <br>
 
 ## :clipboard:  Sobre os Cursos 
 
-* [Alura - React]
 * [Alura - Flutter]
 
 ### Mateiral de apoio
 
 * [Documentação Flutter by Google](https://docs.flutter.dev/get-started/codelab)
-* [Documentação React](https://react.dev/)
+
   
 
 ## :clipboard: Overview
@@ -34,8 +32,8 @@ Olá, seja bem-vindo ao meu repositório do meu Plano de Desenvolvimento Individ
 ### Conteúdos a ser estudado
 ##### Importante manter o README do seu PDI sempre atualizado para que possamos acompanhar o seu desenvolvimento na Peki Code!
 
-- [ ] Alura React - Primeiro projeto em React
-- [ ] 
+- [ ] Formação Dart do zero Alura
+- [ ] Formação Primeiro App com Fluter
 
 
 ## Resposnaveis pelo PDI na Peki Code
